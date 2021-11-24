@@ -1,5 +1,5 @@
 # The Discovery of Handwashing
-**Note**: I'm still working on the README.
+**Note**: for viewing the notebook, go to [nbviewer](https://nbviewer.org/github/Chau-Ngoc/discovery-of-handwashing/blob/main/discovery_of_handwashing.ipynb#top)
 
 In this notebook, you will become a doctor, but not just any doctor. You will become Dr Ignaz Semmelweis, a Hungarian physician born in 1818 who worked in the Vienna General Hospital.
 
@@ -8,4 +8,4 @@ In the past, people didn't know about bacteria, germs, or viruses. People illnes
 Features in this notebook:
 * Data on the number of births and maternal deaths at Vienna General Hospital collected both monthly and yearly from 1841 to 1846.
 * Use plotly's line charts to visualize death rate at Vienna General Hospital.
-
+* Visualize death rate distributions and perform t-testing for statistical significance.
